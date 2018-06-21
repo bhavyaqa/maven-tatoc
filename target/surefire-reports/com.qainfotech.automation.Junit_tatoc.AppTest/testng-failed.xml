@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="0" name="Failed suite [com.qainfotech.automation.Junit_tatoc.AppTest]">
+  <test thread-count="5" verbose="0" name="Command line test(failed)">
+    <classes>
+      <class name="com.qainfotech.automation.Junit_tatoc.AppTest">
+        <methods>
+          <include name="closeBrowser"/>
+          <include name="basic_selenium_automation"/>
+          <include name="launchBrowser"/>
+        </methods>
+      </class> <!-- com.qainfotech.automation.Junit_tatoc.AppTest -->
+    </classes>
+  </test> <!-- Command line test(failed) -->
+</suite> <!-- Failed suite [com.qainfotech.automation.Junit_tatoc.AppTest] -->

@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="com.qainfotech.automation.Junit_tatoc.AppTest" duration-ms="14246" started-at="2018-06-21T06:49:18Z" finished-at="2018-06-21T06:49:32Z">
+  <suite name="com.qainfotech.automation.Junit_tatoc.AppTest" duration-ms="5829" started-at="2018-06-21T13:23:16Z" finished-at="2018-06-21T13:23:21Z">
     <groups>
     </groups>
-    <test name="Command line test" duration-ms="14246" started-at="2018-06-21T06:49:18Z" finished-at="2018-06-21T06:49:32Z">
+    <test name="Command line test" duration-ms="5829" started-at="2018-06-21T13:23:16Z" finished-at="2018-06-21T13:23:21Z">
       <class name="com.qainfotech.automation.Junit_tatoc.AppTest">
-        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:com.qainfotech.automation.Junit_tatoc.AppTest@2ed94a8b]" name="launchBrowser" is-config="true" duration-ms="7693" started-at="2018-06-21T06:49:18Z" finished-at="2018-06-21T06:49:26Z">
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:com.qainfotech.automation.Junit_tatoc.AppTest@248e319b]" name="launchBrowser" is-config="true" duration-ms="559" started-at="2018-06-21T13:23:16Z" finished-at="2018-06-21T13:23:16Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- launchBrowser -->
-        <test-method status="PASS" signature="basic_selenium_automation()[pri:0, instance:com.qainfotech.automation.Junit_tatoc.AppTest@2ed94a8b]" name="basic_selenium_automation" duration-ms="5867" started-at="2018-06-21T06:49:26Z" finished-at="2018-06-21T06:49:31Z">
+        <test-method status="PASS" signature="basic_selenium_automation()[pri:0, instance:com.qainfotech.automation.Junit_tatoc.AppTest@248e319b]" name="basic_selenium_automation" duration-ms="4611" started-at="2018-06-21T13:23:16Z" finished-at="2018-06-21T13:23:21Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- basic_selenium_automation -->
-        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.qainfotech.automation.Junit_tatoc.AppTest@2ed94a8b]" name="closeBrowser" is-config="true" duration-ms="615" started-at="2018-06-21T06:49:31Z" finished-at="2018-06-21T06:49:32Z">
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.qainfotech.automation.Junit_tatoc.AppTest@248e319b]" name="closeBrowser" is-config="true" duration-ms="631" started-at="2018-06-21T13:23:21Z" finished-at="2018-06-21T13:23:21Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeBrowser -->
